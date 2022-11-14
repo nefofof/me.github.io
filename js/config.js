@@ -104,8 +104,9 @@ var l_messagesEnabled = true;
 /*Enter your custom messages below*/
 var l_messages = [
 "Подключение к серверу",
-"Спасибо, что выбрал наш сервер!",
-"Владелец - Tr1x0id"
+"Спасибо, что выбрали наш сервер!",
+"Владелец - Tr1x0id",
+"Прочитать правила можно в дискорде"
 ];
 
 /*Random message order?*/
